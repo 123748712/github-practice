@@ -3,3 +3,4 @@ import random
 for i in range(5) :
     lotto = random.sample(list(range(1, 46)), 6)
     print(lotto)
+    # 주석 추가
